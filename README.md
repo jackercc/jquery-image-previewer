@@ -6,7 +6,7 @@
 
 - 引入
 ```html
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" type="text/javascript"></script>
+<script src="https://s1.pstatp.com/cdn/expire-1-M/jquery/3.4.0/jquery.min.js" type="text/javascript"></script>
 <script src="jquery-imagepreviewer.min.js" type="text/javascript"></script>
 ```
 
