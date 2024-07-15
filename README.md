@@ -2,7 +2,7 @@
 
 [github地址](https://github.com/jackercc/jquery-image-previewer)
 
-[预览地址](http://jacker.cc/repository/jquery-image-previewer/)
+[预览地址](https://jackercc.github.io/jquery-image-previewer/)
 
 - 引入
 ```html
