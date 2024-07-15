@@ -1,8 +1,12 @@
-## 一款实现图片放大预览的jQ	uery插件
+## 一款实现图片放大预览的jQuery插件
+
+[github地址](https://github.com/jackercc/jquery-image-previewer)
+
+[预览地址](https://jackercc.github.io/jquery-image-previewer/)
 
 - 引入
 ```html
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" type="text/javascript"></script>
+<script src="https://s1.pstatp.com/cdn/expire-1-M/jquery/3.4.0/jquery.min.js" type="text/javascript"></script>
 <script src="jquery-imagepreviewer.min.js" type="text/javascript"></script>
 ```
 
